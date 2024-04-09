@@ -1,4 +1,4 @@
-# Awesome_DFIR_CTFs
+# Awesome DFIR CTFs
 Awesome list of resources for Blue Team DFIR CTF exercises and data sets
 
 https://posh-hunter.com
